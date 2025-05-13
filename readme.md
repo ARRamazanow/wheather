@@ -51,7 +51,7 @@ This project does not include automated tests at this time.
 
 ## 👨‍💻 Author
 
-[Rokas: GitHub](https://github.com/ARRamazanow)
+[Artiom: GitHub](https://github.com/ARRamazanow)
 
 ## ⚠️ License
 
